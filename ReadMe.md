@@ -1,0 +1,1 @@
+Hello, I'm a computer engineering student from Mef University. I'm learning C programming language nowadays from Deitel "C How to Program, 7th Edition". In here, you can find examples and solutions for exercises from the book. Hope you like it. 
